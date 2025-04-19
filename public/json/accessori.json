@@ -1,0 +1,141 @@
+{
+  "accessori": [
+    {
+      "nome": "Caricabatterie MagSafe",
+      "id": "caricabatterie_magsafe_001",
+      "categoria": "Accessori",
+      "descrizione": "Caricabatterie MagSafe per iPhone 12 e successivi, ricarica wireless rapida e sicura.",
+      "imgUrl": "https://www.apple.com/magsafe-charger/image.jpg",
+      "prezzo": 39,
+      "pScontato": 35,
+      "colore": [
+        "Bianco"
+      ]
+    },
+    {
+      "nome": "Cavo Lightning a USB-C",
+      "id": "cavo_lightning_usb_c_002",
+      "categoria": "Accessori",
+      "descrizione": "Cavo Lightning a USB-C per caricare dispositivi iOS o per il trasferimento di dati.",
+      "imgUrl": "https://www.apple.com/lightning-to-usb-c-cable/image.jpg",
+      "prezzo": 25,
+      "pScontato": 22,
+      "colore": [
+        "Bianco"
+      ]
+    },
+    {
+      "nome": "Custodia in Silicone per iPhone 14",
+      "id": "custodia_silicone_iphone_14_003",
+      "categoria": "Accessori",
+      "descrizione": "Custodia in silicone per iPhone 14 con una finitura morbida e resistente, disponibile in vari colori.",
+      "imgUrl": "https://www.apple.com/iphone-14-silicone-case/image.jpg",
+      "prezzo": 49,
+      "pScontato": 45,
+      "colore": [
+        "Blu",
+        "Verde",
+        "Nero",
+        "Bianco"
+      ]
+    },
+    {
+      "nome": "Apple Pencil (2ª gen.)",
+      "id": "apple_pencil_2_004",
+      "categoria": "Accessori",
+      "descrizione": "Apple Pencil (2ª generazione) per iPad Pro e iPad Air, precisione e sensibilità al tocco avanzate.",
+      "imgUrl": "https://www.apple.com/apple-pencil-2/image.jpg",
+      "prezzo": 129,
+      "pScontato": 119,
+      "colore": [
+        "Bianco"
+      ]
+    },
+    {
+      "nome": "AirTag",
+      "id": "airtag_005",
+      "categoria": "Accessori",
+      "descrizione": "AirTag, il dispositivo di localizzazione per oggetti che ti aiuta a tenere traccia delle tue cose tramite l'app Find My.",
+      "imgUrl": "https://www.apple.com/airtag/image.jpg",
+      "prezzo": 29,
+      "pScontato": 24,
+      "colore": [
+        "Bianco"
+      ]
+    },
+    {
+      "nome": "MagSafe Duo Charger",
+      "id": "magsafe_duo_charger_006",
+      "categoria": "Accessori",
+      "descrizione": "Caricabatterie MagSafe Duo per ricaricare il tuo iPhone e Apple Watch contemporaneamente.",
+      "imgUrl": "https://www.apple.com/magsafe-duo-charger/image.jpg",
+      "prezzo": 129,
+      "pScontato": 119,
+      "colore": [
+        "Bianco"
+      ]
+    },
+    {
+      "nome": "Smart Keyboard Folio per iPad Pro 12.9\"",
+      "id": "smart_keyboard_folio_12_9_007",
+      "categoria": "Accessori",
+      "descrizione": "Smart Keyboard Folio per iPad Pro da 12.9\" con tasti comodi e design ultra sottile.",
+      "imgUrl": "https://www.apple.com/smart-keyboard-folio-12-9/image.jpg",
+      "prezzo": 199,
+      "pScontato": 179,
+      "colore": [
+        "Nero"
+      ]
+    },
+    {
+      "nome": "Magic Mouse 2",
+      "id": "magic_mouse_2_008",
+      "categoria": "Accessori",
+      "descrizione": "Magic Mouse 2 con design elegante e sensibile al tocco per un'esperienza di navigazione fluida.",
+      "imgUrl": "https://www.apple.com/magic-mouse-2/image.jpg",
+      "prezzo": 79,
+      "pScontato": 69,
+      "colore": [
+        "Bianco"
+      ]
+    },
+    {
+      "nome": "AirPods Pro (Custodia di Ricarica)",
+      "id": "airpods_pro_case_009",
+      "categoria": "Accessori",
+      "descrizione": "Custodia di ricarica per AirPods Pro, compatibile con MagSafe e ricarica wireless.",
+      "imgUrl": "https://www.apple.com/airpods-pro-case/image.jpg",
+      "prezzo": 89,
+      "pScontato": 79,
+      "colore": [
+        "Bianco"
+      ]
+    },
+    {
+      "nome": "Adattatore USB-C a USB",
+      "id": "adattatore_usb_c_usb_010",
+      "categoria": "Accessori",
+      "descrizione": "Adattatore USB-C a USB per connettere dispositivi USB tradizionali a dispositivi con porta USB-C.",
+      "imgUrl": "https://www.apple.com/usb-c-to-usb-adapter/image.jpg",
+      "prezzo": 19,
+      "pScontato": 17,
+      "colore": [
+        "Argento"
+      ]
+    },
+    {
+      "nome": "MagSafe Wallet",
+      "id": "magsafe_wallet_011",
+      "categoria": "Accessori",
+      "descrizione": "MagSafe Wallet per iPhone, per tenere carte e contanti in modo sicuro e facilmente accessibile.",
+      "imgUrl": "https://www.apple.com/magsafe-wallet/image.jpg",
+      "prezzo": 59,
+      "pScontato": 55,
+      "colore": [
+        "Nero",
+        "Blu",
+        "Marrone"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+#root {
+  /* max-width: 1280px; */
+  margin: 0 auto;
+  padding: 1rem;
+  text-align: center;
+}
+
+a {
+  @apply w-[100%]
+}
+
+/* ### FONT ### */
+.logo {
+  @apply font-bold uppercase text-[18px]
+}
+
+h1 {
+  @apply text-[18vh] font-semibold leading-none tracking-tight
+}
+
+
+
+.p-hero {
+  @apply text-[6vh] tracking-tight
+}
+
+a:hover {
+  @apply underline underline-offset-8
+}
+
+.h2-card-category {
+  @apply font-semibold content-start text-white
+}
+
+.h6-card-product {
+  @apply font-semibold text-[12px] uppercase text-black
+}
+
+
+/* ### MOBILE MENU ### */
+.mobile-menu {
+  @apply flex flex-col gap-4 uppercase bg-black text-white h-screen
+}
+
+.h6-mobile-menu {
+  @apply font-semibold text-[12px] uppercase text-black
+}
+
+
+
+/* ### AXIOS ### */
+.products-grid {
+  @apply grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4
+}
+
+
+/* ### HERO ### */
+.hero {
+  @apply bg-no-repeat bg-contain bg-bottom h-screen;
+}
+
+
+
+/* ### CARD ### */
+.card-category {
+  @apply w-full h-[100%] border-black border-[1px] p-[2vw] mb-4 text-black text-left flex flex-col justify-between
+}
+
+.card-bg {
+  @apply bg-no-repeat bg-cover bg-center
+}
+
+.card-product {
+  @apply border-black border-[1px] p-12 text-black text-left 
+}
+
+.img-product {
+  @apply w-[360px]
+}
+
+.freccia_scopri {
+  @apply w-[50px] translate-x-0 transition-[1s]
+}
+
+.freccia_scopri:hover {
+  @apply translate-x-4
+}
+
+
+/* ### BTN ### */
+.btn-form {
+  @apply bg-black text-white border-[1px] border-black w-[100%] my-2 p-4
+}
+
+.btn-form:hover {
+  @apply border-[1px] border-black text-black bg-white
+}
+
+.btn-menu {
+  @apply border-[1px] border-black text-black bg-white my-2 p-2 w-[100%] h-fit
+}
+
+.btn-menu:hover {
+  @apply bg-black text-white border-[1px] border-black
+}
+
+
+
+/* ### SEARCH-BAR ### */
+.search-bar {
+  @apply border-[1px] border-black text-black bg-white my-2 p-2 flex gap-4 justify-between h-fit sm:w-[fit] 
+}
+
+.input-search-bar {
+  @apply focus:outline-none w-[100%]
+}

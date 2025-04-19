@@ -1,0 +1,170 @@
+{
+  "ipads": [
+    {
+      "nome": "iPad Pro 12.9\" M2",
+      "id": "ipad_pro_12_9_m2_001",
+      "categoria": "iPad",
+      "descrizione": "iPad Pro 12.9\" con chip M2, display Liquid Retina XDR, e compatibile con la Apple Pencil di seconda generazione.",
+      "imgUrl": "https://www.apple.com/ipad-pro-12-9-m2/image.jpg",
+      "prezzo": 1299,
+      "pScontato": 1199,
+      "colore": [
+        "Argento",
+        "Grigio Siderale"
+      ]
+    },
+    {
+      "nome": "iPad Pro 11\" M2",
+      "id": "ipad_pro_11_m2_002",
+      "categoria": "iPad",
+      "descrizione": "iPad Pro 11\" con chip M2, display Liquid Retina e supporto per il Magic Keyboard.",
+      "imgUrl": "https://www.apple.com/ipad-pro-11-m2/image.jpg",
+      "prezzo": 1099,
+      "pScontato": 999,
+      "colore": [
+        "Argento",
+        "Grigio Siderale"
+      ]
+    },
+    {
+      "nome": "iPad Air 5ª gen.",
+      "id": "ipad_air_5_003",
+      "categoria": "iPad",
+      "descrizione": "iPad Air 5ª generazione con chip M1, display Liquid Retina da 10,9\" e supporto per la Apple Pencil.",
+      "imgUrl": "https://www.apple.com/ipad-air-5/image.jpg",
+      "prezzo": 599,
+      "pScontato": 549,
+      "colore": [
+        "Argento",
+        "Grigio Siderale",
+        "Blu",
+        "Verde",
+        "Rosa"
+      ]
+    },
+    {
+      "nome": "iPad 10ª gen.",
+      "id": "ipad_10_004",
+      "categoria": "iPad",
+      "descrizione": "iPad 10ª generazione con display Retina da 10,9\" e chip A14 Bionic, disponibile in diverse colorazioni.",
+      "imgUrl": "https://www.apple.com/ipad-10-2022/image.jpg",
+      "prezzo": 449,
+      "pScontato": 429,
+      "colore": [
+        "Argento",
+        "Blu",
+        "Rosa",
+        "Giallo"
+      ]
+    },
+    {
+      "nome": "iPad Pro 12.9\" M1",
+      "id": "ipad_pro_12_9_m1_005",
+      "categoria": "iPad",
+      "descrizione": "iPad Pro 12.9\" con chip M1, display Liquid Retina XDR e compatibilità con il Magic Keyboard.",
+      "imgUrl": "https://www.apple.com/ipad-pro-12-9-m1/image.jpg",
+      "prezzo": 1099,
+      "pScontato": 999,
+      "colore": [
+        "Argento",
+        "Grigio Siderale"
+      ]
+    },
+    {
+      "nome": "iPad Pro 11\" M1",
+      "id": "ipad_pro_11_m1_006",
+      "categoria": "iPad",
+      "descrizione": "iPad Pro 11\" con chip M1, display Liquid Retina e supporto per l'Apple Pencil di seconda generazione.",
+      "imgUrl": "https://www.apple.com/ipad-pro-11-m1/image.jpg",
+      "prezzo": 799,
+      "pScontato": 749,
+      "colore": [
+        "Argento",
+        "Grigio Siderale"
+      ]
+    },
+    {
+      "nome": "iPad Air 4ª gen.",
+      "id": "ipad_air_4_007",
+      "categoria": "iPad",
+      "descrizione": "iPad Air con chip A14 Bionic, display Liquid Retina da 10,9\" e supporto per Apple Pencil e Smart Keyboard.",
+      "imgUrl": "https://www.apple.com/ipad-air-4/image.jpg",
+      "prezzo": 599,
+      "pScontato": 549,
+      "colore": [
+        "Argento",
+        "Grigio Siderale",
+        "Blu",
+        "Verde",
+        "Rosa"
+      ]
+    },
+    {
+      "nome": "iPad 9ª gen.",
+      "id": "ipad_9_008",
+      "categoria": "iPad",
+      "descrizione": "iPad 9ª generazione con display Retina da 10,2\" e chip A13 Bionic.",
+      "imgUrl": "https://www.apple.com/ipad-9-2021/image.jpg",
+      "prezzo": 329,
+      "pScontato": 299,
+      "colore": [
+        "Argento",
+        "Grigio Siderale"
+      ]
+    },
+    {
+      "nome": "iPad Mini 6ª gen.",
+      "id": "ipad_mini_6_009",
+      "categoria": "iPad",
+      "descrizione": "iPad Mini 6ª generazione con chip A15 Bionic, display Liquid Retina da 8,3\" e supporto per Apple Pencil di seconda generazione.",
+      "imgUrl": "https://www.apple.com/ipad-mini-6/image.jpg",
+      "prezzo": 499,
+      "pScontato": 459,
+      "colore": [
+        "Argento",
+        "Grigio Siderale",
+        "Rosa",
+        "Blu"
+      ]
+    },
+    {
+      "nome": "iPad Pro 12.9\" 2020",
+      "id": "ipad_pro_12_9_2020_010",
+      "categoria": "iPad",
+      "descrizione": "iPad Pro 12.9\" con chip A12Z Bionic, display Liquid Retina e supporto per Magic Keyboard.",
+      "imgUrl": "https://www.apple.com/ipad-pro-12-9-2020/image.jpg",
+      "prezzo": 999,
+      "pScontato": 899,
+      "colore": [
+        "Argento",
+        "Grigio Siderale"
+      ]
+    },
+    {
+      "nome": "iPad Pro 11\" 2020",
+      "id": "ipad_pro_11_2020_011",
+      "categoria": "iPad",
+      "descrizione": "iPad Pro 11\" con chip A12Z Bionic, display Liquid Retina e compatibilità con Apple Pencil.",
+      "imgUrl": "https://www.apple.com/ipad-pro-11-2020/image.jpg",
+      "prezzo": 799,
+      "pScontato": 749,
+      "colore": [
+        "Argento",
+        "Grigio Siderale"
+      ]
+    },
+    {
+      "nome": "iPad 8ª gen.",
+      "id": "ipad_8_012",
+      "categoria": "iPad",
+      "descrizione": "iPad 8ª generazione con display Retina da 10,2\" e chip A12 Bionic.",
+      "imgUrl": "https://www.apple.com/ipad-8-2020/image.jpg",
+      "prezzo": 329,
+      "pScontato": 299,
+      "colore": [
+        "Argento",
+        "Grigio Siderale"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "appleWatches": [
+    {
+      "nome": "Apple Watch Ultra",
+      "id": "apple_watch_ultra_001",
+      "categoria": "Apple Watch",
+      "descrizione": "Apple Watch Ultra con display più grande, GPS di precisione e durata della batteria fino a 36 ore.",
+      "imgUrl": "https://www.apple.com/apple-watch-ultra/image.jpg",
+      "prezzo": 799,
+      "pScontato": 749,
+      "colore": [
+        "Titanio"
+      ]
+    },
+    {
+      "nome": "Apple Watch Series 8",
+      "id": "apple_watch_series_8_002",
+      "categoria": "Apple Watch",
+      "descrizione": "Apple Watch Series 8 con display Retina Always-On, monitoraggio della salute avanzato e nuove funzioni di sicurezza.",
+      "imgUrl": "https://www.apple.com/apple-watch-series-8/image.jpg",
+      "prezzo": 399,
+      "pScontato": 349,
+      "colore": [
+        "Argento",
+        "Oro",
+        "Grafite"
+      ]
+    },
+    {
+      "nome": "Apple Watch SE (2ª gen.)",
+      "id": "apple_watch_se_2022_003",
+      "categoria": "Apple Watch",
+      "descrizione": "Apple Watch SE con tutte le funzioni essenziali, inclusa la rilevazione degli incidenti e il monitoraggio dell'attività fisica.",
+      "imgUrl": "https://www.apple.com/apple-watch-se/image.jpg",
+      "prezzo": 249,
+      "pScontato": 229,
+      "colore": [
+        "Argento",
+        "Oro",
+        "Grafite"
+      ]
+    },
+    {
+      "nome": "Apple Watch Series 7",
+      "id": "apple_watch_series_7_004",
+      "categoria": "Apple Watch",
+      "descrizione": "Apple Watch Series 7 con display più grande, carica rapida e nuove opzioni di personalizzazione.",
+      "imgUrl": "https://www.apple.com/apple-watch-series-7/image.jpg",
+      "prezzo": 399,
+      "pScontato": 359,
+      "colore": [
+        "Oro",
+        "Grigio Siderale",
+        "Verde"
+      ]
+    },
+    {
+      "nome": "Apple Watch Series 6",
+      "id": "apple_watch_series_6_005",
+      "categoria": "Apple Watch",
+      "descrizione": "Apple Watch Series 6 con rilevamento dell'ossigeno nel sangue, monitoraggio ECG e un nuovo display Retina sempre attivo.",
+      "imgUrl": "https://www.apple.com/apple-watch-series-6/image.jpg",
+      "prezzo": 399,
+      "pScontato": 359,
+      "colore": [
+        "Blu",
+        "Oro",
+        "Grigio Siderale"
+      ]
+    },
+    {
+      "nome": "Apple Watch SE (1ª gen.)",
+      "id": "apple_watch_se_2020_006",
+      "categoria": "Apple Watch",
+      "descrizione": "Apple Watch SE con funzioni avanzate per il monitoraggio dell'attività fisica e del benessere.",
+      "imgUrl": "https://www.apple.com/apple-watch-se-2020/image.jpg",
+      "prezzo": 279,
+      "pScontato": 249,
+      "colore": [
+        "Argento",
+        "Oro",
+        "Grigio Siderale"
+      ]
+    },
+    {
+      "nome": "Apple Watch Series 5",
+      "id": "apple_watch_series_5_007",
+      "categoria": "Apple Watch",
+      "descrizione": "Apple Watch Series 5 con display Always-On, monitoraggio della salute e della forma fisica avanzato.",
+      "imgUrl": "https://www.apple.com/apple-watch-series-5/image.jpg",
+      "prezzo": 429,
+      "pScontato": 379,
+      "colore": [
+        "Titanio",
+        "Oro",
+        "Grigio Siderale"
+      ]
+    },
+    {
+      "nome": "Apple Watch Series 4",
+      "id": "apple_watch_series_4_008",
+      "categoria": "Apple Watch",
+      "descrizione": "Apple Watch Series 4 con ECG e display più grande. Monitoraggio fitness e salute a livello professionale.",
+      "imgUrl": "https://www.apple.com/apple-watch-series-4/image.jpg",
+      "prezzo": 399,
+      "pScontato": 349,
+      "colore": [
+        "Oro",
+        "Argento",
+        "Grigio Siderale"
+      ]
+    },
+    {
+      "nome": "Apple Watch Series 3",
+      "id": "apple_watch_series_3_009",
+      "categoria": "Apple Watch",
+      "descrizione": "Apple Watch Series 3, il modello più conveniente con GPS, monitoraggio dell'attività fisica e connettività cellulare opzionale.",
+      "imgUrl": "https://www.apple.com/apple-watch-series-3/image.jpg",
+      "prezzo": 199,
+      "pScontato": 179,
+      "colore": [
+        "Argento",
+        "Nero"
+      ]
+    },
+    {
+      "nome": "Apple Watch Nike+ Series 7",
+      "id": "apple_watch_nike_series_7_010",
+      "categoria": "Apple Watch",
+      "descrizione": "Apple Watch Series 7 con la versione Nike+, perfetto per gli appassionati di sport e fitness.",
+      "imgUrl": "https://www.apple.com/apple-watch-nike-series-7/image.jpg",
+      "prezzo": 429,
+      "pScontato": 399,
+      "colore": [
+        "Verde",
+        "Grigio Siderale",
+        "Oro"
+      ]
+    },
+    {
+      "nome": "Apple Watch Hermes",
+      "id": "apple_watch_hermes_011",
+      "categoria": "Apple Watch",
+      "descrizione": "Apple Watch Hermes con cinturini di lusso e personalizzazione esclusiva.",
+      "imgUrl": "https://www.apple.com/apple-watch-hermes/image.jpg",
+      "prezzo": 1399,
+      "pScontato": 1299,
+      "colore": [
+        "Argento",
+        "Oro"
+      ]
+    },
+    {
+      "nome": "Apple Watch Edition",
+      "id": "apple_watch_edition_012",
+      "categoria": "Apple Watch",
+      "descrizione": "Apple Watch Edition con corpo in titanio e lussuosi cinturini in pelle e metallo.",
+      "imgUrl": "https://www.apple.com/apple-watch-edition/image.jpg",
+      "prezzo": 1299,
+      "pScontato": 1199,
+      "colore": [
+        "Titanio",
+        "Oro"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "iphones": [
+    {
+      "nome": "iPhone 15 Pro",
+      "id": "iphone_15_pro_001",
+      "categoria": "iPhone",
+      "descrizione": "L'ultimo modello di iPhone con chip A17 Pro, fotocamera avanzata e design in titanio.",
+      "imgUrl": "https://www.apple.com/iphone-15-pro/image.jpg",
+      "prezzo": 1199,
+      "pScontato": 1099,
+      "colore": [
+        "Grigio Titanio",
+        "Argento",
+        "Oro"
+      ]
+    },
+    {
+      "nome": "iPhone 15",
+      "id": "iphone_15_002",
+      "categoria": "iPhone",
+      "descrizione": "Il nuovo iPhone 15 con chip A16 Bionic e fotocamera migliorata.",
+      "imgUrl": "https://www.apple.com/iphone-15/image.jpg",
+      "prezzo": 999,
+      "pScontato": 949,
+      "colore": [
+        "Nero",
+        "Blu",
+        "Rosso"
+      ]
+    },
+    {
+      "nome": "iPhone 14 Pro Max",
+      "id": "iphone_14_pro_max_003",
+      "categoria": "iPhone",
+      "descrizione": "Un iPhone di fascia alta con display OLED e fotocamera da 48MP.",
+      "imgUrl": "https://www.apple.com/iphone-14-pro-max/image.jpg",
+      "prezzo": 1299,
+      "pScontato": 1249,
+      "colore": [
+        "Nero Spaziale",
+        "Argento",
+        "Viola"
+      ]
+    },
+    {
+      "nome": "iPhone SE (2022)",
+      "id": "iphone_se_2022_004",
+      "categoria": "iPhone",
+      "descrizione": "Un iPhone compatto con chip A15 Bionic e Touch ID.",
+      "imgUrl": "https://www.apple.com/iphone-se/image.jpg",
+      "prezzo": 429,
+      "pScontato": 399,
+      "colore": [
+        "Bianco",
+        "Nero",
+        "Rosso"
+      ]
+    },
+    {
+      "nome": "iPhone 13 Pro",
+      "id": "iphone_13_pro_005",
+      "categoria": "iPhone",
+      "descrizione": "Un iPhone con fotocamera tripla e display Super Retina XDR.",
+      "imgUrl": "https://www.apple.com/iphone-13-pro/image.jpg",
+      "prezzo": 1099,
+      "pScontato": 1049,
+      "colore": [
+        "Oro",
+        "Argento",
+        "Azzurro"
+      ]
+    },
+    {
+      "nome": "iPhone 13 Mini",
+      "id": "iphone_13_mini_006",
+      "categoria": "iPhone",
+      "descrizione": "iPhone compatto con chip A15 Bionic e display OLED.",
+      "imgUrl": "https://www.apple.com/iphone-13-mini/image.jpg",
+      "prezzo": 699,
+      "pScontato": 649,
+      "colore": [
+        "Nero",
+        "Rosso",
+        "Verde"
+      ]
+    },
+    {
+      "nome": "iPhone 12 Pro Max",
+      "id": "iphone_12_pro_max_007",
+      "categoria": "iPhone",
+      "descrizione": "Il miglior iPhone con fotocamera a 5G e display OLED da 6.7 pollici.",
+      "imgUrl": "https://www.apple.com/iphone-12-pro-max/image.jpg",
+      "prezzo": 1099,
+      "pScontato": 999,
+      "colore": [
+        "Oro",
+        "Blu Pacifico",
+        "Grafite"
+      ]
+    },
+    {
+      "nome": "iPhone 12",
+      "id": "iphone_12_008",
+      "categoria": "iPhone",
+      "descrizione": "iPhone con chip A14 Bionic e design piatto.",
+      "imgUrl": "https://www.apple.com/iphone-12/image.jpg",
+      "prezzo": 799,
+      "pScontato": 749,
+      "colore": [
+        "Blu",
+        "Bianco",
+        "Verde"
+      ]
+    },
+    {
+      "nome": "iPhone 11 Pro",
+      "id": "iphone_11_pro_009",
+      "categoria": "iPhone",
+      "descrizione": "iPhone con fotocamera tripla da 12MP e display OLED.",
+      "imgUrl": "https://www.apple.com/iphone-11-pro/image.jpg",
+      "prezzo": 999,
+      "pScontato": 899,
+      "colore": [
+        "Grigio Spaziale",
+        "Oro",
+        "Verde"
+      ]
+    },
+    {
+      "nome": "iPhone XR",
+      "id": "iphone_xr_010",
+      "categoria": "iPhone",
+      "descrizione": "iPhone con display Liquid Retina e chip A12 Bionic.",
+      "imgUrl": "https://www.apple.com/iphone-xr/image.jpg",
+      "prezzo": 749,
+      "pScontato": 699,
+      "colore": [
+        "Giallo",
+        "Blu",
+        "Corallo"
+      ]
+    },
+    {
+      "nome": "iPhone X",
+      "id": "iphone_x_011",
+      "categoria": "iPhone",
+      "descrizione": "iPhone con display Super Retina e Face ID.",
+      "imgUrl": "https://www.apple.com/iphone-x/image.jpg",
+      "prezzo": 999,
+      "pScontato": 899,
+      "colore": [
+        "Argento",
+        "Nero"
+      ]
+    },
+    {
+      "nome": "iPhone 8 Plus",
+      "id": "iphone_8_plus_012",
+      "categoria": "iPhone",
+      "descrizione": "iPhone con display Retina HD e fotocamera da 12MP.",
+      "imgUrl": "https://www.apple.com/iphone-8-plus/image.jpg",
+      "prezzo": 799,
+      "pScontato": 699,
+      "colore": [
+        "Oro",
+        "Argento",
+        "Grigio Spaziale"
+      ]
+    }
+  ]
+}

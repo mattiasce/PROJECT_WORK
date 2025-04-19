@@ -1,0 +1,164 @@
+{
+  "macbooks": [
+    {
+      "nome": "MacBook Air M2",
+      "id": "macbook_air_m2_001",
+      "categoria": "MacBook",
+      "descrizione": "Il MacBook Air con chip M2, display Retina da 13,6 pollici e design ultra-sottile.",
+      "imgUrl": "https://www.apple.com/macbook-air-m2/image.jpg",
+      "prezzo": 1199,
+      "pScontato": 1099,
+      "colore": [
+        "Argento",
+        "Grigio Siderale",
+        "Mezzanotte",
+        "Starlight"
+      ]
+    },
+    {
+      "nome": "MacBook Pro 16\" M2 Pro",
+      "id": "macbook_pro_16_m2pro_002",
+      "categoria": "MacBook",
+      "descrizione": "MacBook Pro da 16 pollici con chip M2 Pro, display Liquid Retina XDR e prestazioni elevate.",
+      "imgUrl": "https://www.apple.com/macbook-pro-16-m2pro/image.jpg",
+      "prezzo": 2499,
+      "pScontato": 2299,
+      "colore": [
+        "Grigio Siderale",
+        "Argento"
+      ]
+    },
+    {
+      "nome": "MacBook Pro 14\" M2 Pro",
+      "id": "macbook_pro_14_m2pro_003",
+      "categoria": "MacBook",
+      "descrizione": "MacBook Pro da 14 pollici con chip M2 Pro, display Liquid Retina XDR e autonomia fino a 17 ore.",
+      "imgUrl": "https://www.apple.com/macbook-pro-14-m2pro/image.jpg",
+      "prezzo": 1999,
+      "pScontato": 1899,
+      "colore": [
+        "Grigio Siderale",
+        "Argento"
+      ]
+    },
+    {
+      "nome": "MacBook Air M1",
+      "id": "macbook_air_m1_004",
+      "categoria": "MacBook",
+      "descrizione": "MacBook Air con chip M1, prestazioni straordinarie e batteria che dura tutto il giorno.",
+      "imgUrl": "https://www.apple.com/macbook-air-m1/image.jpg",
+      "prezzo": 999,
+      "pScontato": 899,
+      "colore": [
+        "Argento",
+        "Grigio Siderale",
+        "Oro"
+      ]
+    },
+    {
+      "nome": "MacBook Pro 13\" M2",
+      "id": "macbook_pro_13_m2_005",
+      "categoria": "MacBook",
+      "descrizione": "MacBook Pro da 13 pollici con chip M2, display Retina e design compatto.",
+      "imgUrl": "https://www.apple.com/macbook-pro-13-m2/image.jpg",
+      "prezzo": 1499,
+      "pScontato": 1399,
+      "colore": [
+        "Grigio Siderale",
+        "Argento"
+      ]
+    },
+    {
+      "nome": "MacBook Pro 13\" M1",
+      "id": "macbook_pro_13_m1_006",
+      "categoria": "MacBook",
+      "descrizione": "MacBook Pro da 13 pollici con chip M1, prestazioni straordinarie e autonomia incredibile.",
+      "imgUrl": "https://www.apple.com/macbook-pro-13-m1/image.jpg",
+      "prezzo": 1299,
+      "pScontato": 1199,
+      "colore": [
+        "Grigio Siderale",
+        "Argento"
+      ]
+    },
+    {
+      "nome": "MacBook Pro 16\" M1 Pro",
+      "id": "macbook_pro_16_m1pro_007",
+      "categoria": "MacBook",
+      "descrizione": "MacBook Pro da 16 pollici con chip M1 Pro, display Retina XDR e prestazioni professionali.",
+      "imgUrl": "https://www.apple.com/macbook-pro-16-m1pro/image.jpg",
+      "prezzo": 2399,
+      "pScontato": 2199,
+      "colore": [
+        "Grigio Siderale",
+        "Argento"
+      ]
+    },
+    {
+      "nome": "MacBook Pro 14\" M1 Pro",
+      "id": "macbook_pro_14_m1pro_008",
+      "categoria": "MacBook",
+      "descrizione": "MacBook Pro da 14 pollici con chip M1 Pro, display Retina XDR e prestazioni elevate.",
+      "imgUrl": "https://www.apple.com/macbook-pro-14-m1pro/image.jpg",
+      "prezzo": 1899,
+      "pScontato": 1799,
+      "colore": [
+        "Grigio Siderale",
+        "Argento"
+      ]
+    },
+    {
+      "nome": "MacBook Air 2020",
+      "id": "macbook_air_2020_009",
+      "categoria": "MacBook",
+      "descrizione": "MacBook Air con chip Intel e design sottile, ideale per la produttività quotidiana.",
+      "imgUrl": "https://www.apple.com/macbook-air-2020/image.jpg",
+      "prezzo": 1099,
+      "pScontato": 999,
+      "colore": [
+        "Argento",
+        "Grigio Siderale",
+        "Oro"
+      ]
+    },
+    {
+      "nome": "MacBook Pro 13\" 2020",
+      "id": "macbook_pro_13_2020_010",
+      "categoria": "MacBook",
+      "descrizione": "MacBook Pro da 13 pollici con chip Intel e una batteria che dura tutta la giornata.",
+      "imgUrl": "https://www.apple.com/macbook-pro-13-2020/image.jpg",
+      "prezzo": 1499,
+      "pScontato": 1399,
+      "colore": [
+        "Grigio Siderale",
+        "Argento"
+      ]
+    },
+    {
+      "nome": "MacBook Pro 15\" 2019",
+      "id": "macbook_pro_15_2019_011",
+      "categoria": "MacBook",
+      "descrizione": "MacBook Pro da 15 pollici con chip Intel, display Retina e grafica potente.",
+      "imgUrl": "https://www.apple.com/macbook-pro-15-2019/image.jpg",
+      "prezzo": 1799,
+      "pScontato": 1699,
+      "colore": [
+        "Grigio Siderale",
+        "Argento"
+      ]
+    },
+    {
+      "nome": "MacBook Pro 13\" 2019",
+      "id": "macbook_pro_13_2019_012",
+      "categoria": "MacBook",
+      "descrizione": "MacBook Pro da 13 pollici con chip Intel, display Retina e ottime performance.",
+      "imgUrl": "https://www.apple.com/macbook-pro-13-2019/image.jpg",
+      "prezzo": 1299,
+      "pScontato": 1199,
+      "colore": [
+        "Grigio Siderale",
+        "Argento"
+      ]
+    }
+  ]
+}

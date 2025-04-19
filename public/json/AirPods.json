@@ -1,0 +1,157 @@
+{
+  "cuffie": [
+    {
+      "nome": "AirPods Pro 2ª gen.",
+      "id": "airpods_pro_2_001",
+      "categoria": "Cuffie",
+      "descrizione": "AirPods Pro 2ª generazione con cancellazione attiva del rumore, modalità trasparenza e chip H2 per una qualità audio superiore.",
+      "imgUrl": "https://www.apple.com/airpods-pro-2/image.jpg",
+      "prezzo": 249,
+      "pScontato": 229,
+      "colore": [
+        "Bianco"
+      ]
+    },
+    {
+      "nome": "AirPods 3ª gen.",
+      "id": "airpods_3_002",
+      "categoria": "Cuffie",
+      "descrizione": "AirPods 3ª generazione con design in-ear, audio spaziale e una durata della batteria fino a 6 ore.",
+      "imgUrl": "https://www.apple.com/airpods-3/image.jpg",
+      "prezzo": 179,
+      "pScontato": 159,
+      "colore": [
+        "Bianco"
+      ]
+    },
+    {
+      "nome": "AirPods Pro",
+      "id": "airpods_pro_001",
+      "categoria": "Cuffie",
+      "descrizione": "AirPods Pro con cancellazione del rumore attiva, modalità trasparenza e design in-ear per un suono immersivo.",
+      "imgUrl": "https://www.apple.com/airpods-pro/image.jpg",
+      "prezzo": 249,
+      "pScontato": 229,
+      "colore": [
+        "Bianco"
+      ]
+    },
+    {
+      "nome": "AirPods Max",
+      "id": "airpods_max_004",
+      "categoria": "Cuffie",
+      "descrizione": "AirPods Max con audio spaziale, cancellazione attiva del rumore e una qualità audio senza pari.",
+      "imgUrl": "https://www.apple.com/airpods-max/image.jpg",
+      "prezzo": 549,
+      "pScontato": 499,
+      "colore": [
+        "Argento",
+        "Grigio Siderale",
+        "Blu Cielo",
+        "Verde"
+      ]
+    },
+    {
+      "nome": "AirPods 2ª gen.",
+      "id": "airpods_2_005",
+      "categoria": "Cuffie",
+      "descrizione": "AirPods 2ª generazione con chip H1 per una connessione rapida e una qualità audio chiara.",
+      "imgUrl": "https://www.apple.com/airpods-2/image.jpg",
+      "prezzo": 159,
+      "pScontato": 139,
+      "colore": [
+        "Bianco"
+      ]
+    },
+    {
+      "nome": "AirPods Pro 1ª gen.",
+      "id": "airpods_pro_1_006",
+      "categoria": "Cuffie",
+      "descrizione": "AirPods Pro con cancellazione attiva del rumore e modalità trasparenza, design in-ear per una migliore qualità audio.",
+      "imgUrl": "https://www.apple.com/airpods-pro-1/image.jpg",
+      "prezzo": 249,
+      "pScontato": 219,
+      "colore": [
+        "Bianco"
+      ]
+    },
+    {
+      "nome": "AirPods 1ª gen.",
+      "id": "airpods_1_007",
+      "categoria": "Cuffie",
+      "descrizione": "AirPods 1ª generazione con chip W1 per una connessione wireless senza interruzioni e audio di alta qualità.",
+      "imgUrl": "https://www.apple.com/airpods-1/image.jpg",
+      "prezzo": 159,
+      "pScontato": 139,
+      "colore": [
+        "Bianco"
+      ]
+    },
+    {
+      "nome": "AirPods Pro 2ª gen. (con custodia di ricarica MagSafe)",
+      "id": "airpods_pro_2_magsafe_008",
+      "categoria": "Cuffie",
+      "descrizione": "AirPods Pro 2ª generazione con custodia di ricarica MagSafe, audio migliore e cancellazione del rumore avanzata.",
+      "imgUrl": "https://www.apple.com/airpods-pro-2-magsafe/image.jpg",
+      "prezzo": 249,
+      "pScontato": 229,
+      "colore": [
+        "Bianco"
+      ]
+    },
+    {
+      "nome": "AirPods Max (con custodia Smart Case)",
+      "id": "airpods_max_smart_case_009",
+      "categoria": "Cuffie",
+      "descrizione": "AirPods Max con qualità audio straordinaria, cancellazione del rumore attiva e una custodia Smart Case per la protezione.",
+      "imgUrl": "https://www.apple.com/airpods-max-smart-case/image.jpg",
+      "prezzo": 549,
+      "pScontato": 499,
+      "colore": [
+        "Argento",
+        "Grigio Siderale",
+        "Blu Cielo",
+        "Verde"
+      ]
+    },
+    {
+      "nome": "AirPods Pro 2ª gen. (con custodia di ricarica Lightning)",
+      "id": "airpods_pro_2_lightning_010",
+      "categoria": "Cuffie",
+      "descrizione": "AirPods Pro 2ª generazione con custodia di ricarica Lightning, cancellazione attiva del rumore e audio spaziale.",
+      "imgUrl": "https://www.apple.com/airpods-pro-2-lightning/image.jpg",
+      "prezzo": 249,
+      "pScontato": 229,
+      "colore": [
+        "Bianco"
+      ]
+    },
+    {
+      "nome": "AirPods 3ª gen. (con custodia di ricarica MagSafe)",
+      "id": "airpods_3_magsafe_011",
+      "categoria": "Cuffie",
+      "descrizione": "AirPods 3ª generazione con custodia di ricarica MagSafe, audio spaziale e un design in-ear per un suono migliore.",
+      "imgUrl": "https://www.apple.com/airpods-3-magsafe/image.jpg",
+      "prezzo": 179,
+      "pScontato": 159,
+      "colore": [
+        "Bianco"
+      ]
+    },
+    {
+      "nome": "AirPods Max (con custodia di ricarica Lightning)",
+      "id": "airpods_max_lightning_012",
+      "categoria": "Cuffie",
+      "descrizione": "AirPods Max con custodia di ricarica Lightning, suono ad alta fedeltà e cancellazione attiva del rumore.",
+      "imgUrl": "https://www.apple.com/airpods-max-lightning/image.jpg",
+      "prezzo": 549,
+      "pScontato": 499,
+      "colore": [
+        "Argento",
+        "Grigio Siderale",
+        "Blu Cielo",
+        "Verde"
+      ]
+    }
+  ]
+}
